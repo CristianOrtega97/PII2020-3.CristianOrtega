@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+    background-color:#E1E5EE;
+    color: #767b91;
+    padding-left: 100px;
+    padding-top: 200px;
+}
+ul{
+    list-style: none;
+}
+
+h1{
+    text-decoration: none;
+}
+        
