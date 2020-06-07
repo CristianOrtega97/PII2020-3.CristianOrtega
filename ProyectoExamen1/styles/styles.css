@@ -1,0 +1,14 @@
+#header{
+    background-color:#82AC9F;
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-family: 'Patrick Hand SC', cursive;
+}
+
+body{
+    margin:0%;
+    padding:0%;
+    background-color: gray;
+}
