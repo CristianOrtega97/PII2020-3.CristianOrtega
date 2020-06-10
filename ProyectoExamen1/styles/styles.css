@@ -1,4 +1,4 @@
-#header{
+header{
     background-color:#82AC9F;
     color: white;
     text-align: center;
@@ -11,4 +11,29 @@ body{
     margin:0%;
     padding:0%;
     background-color: gray;
+}
+
+.right{
+    background-color: whitesmoke;
+    float:left;
+	width:40%;
+	box-sizing:border-box;
+	padding:5px;
+	min-height:200px;
+}
+
+.left{
+    background-color: gray;
+    float:left;
+	width:60%;
+	box-sizing:border-box;
+	padding:5px;
+	min-height:200px;
+}
+
+footer{
+    background-color:#82AC9F;
+    color: black;
+    text-align: center;
+    font-family: 'Patrick Hand SC', cursive;
 }
