@@ -19,7 +19,7 @@ body{
 .right{
     background-color: #3F403F;
     float:left;
-	width:40%;
+    width:40%;
 	box-sizing:border-box;
 	padding:5px;
 	min-height:200px;
@@ -28,7 +28,7 @@ body{
 .left{
     background-color: #56667A;
     float:left;
-	width:60%;
+    width:60%;
 	box-sizing:border-box;
 	padding:5px;
 	min-height:200px;
@@ -39,4 +39,13 @@ footer{
     color: black;
     text-align: center;
     font-family: 'Patrick Hand SC', cursive;
+}
+
+.Contacto{
+    border-style: solid;
+    border: white;
+}
+
+.texto{
+    text-align: justify;
 }
