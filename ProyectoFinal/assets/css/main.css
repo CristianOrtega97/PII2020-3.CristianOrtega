@@ -56,9 +56,6 @@
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
 	}
-
-/* Basic */
-
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -89,9 +86,6 @@
 			-ms-transition: none !important;
 			transition: none !important;
 		}
-
-/* Type */
-
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
 		font-family: "Source Sans Pro", sans-serif;
